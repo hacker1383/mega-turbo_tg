@@ -295,7 +295,7 @@ Special thanks to
 SEEDTEAM
 
 Our channels
-@Signal_CH
+@btteam
 ]],
     help_text_realm = [[
 Realm Commands:
